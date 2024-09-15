@@ -160,7 +160,7 @@ cleaning_script.py: A script that automates the data cleaning process.
 
 Clone the repository:
 bash
-git clone https://github.com/your_username/EDA-using-python.git
+git clone https://github.com/Faisal-Qureshii/Computer-vision.git
 cd EDA-using-python
 
 Install dependencies:
